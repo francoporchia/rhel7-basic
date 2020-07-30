@@ -4,3 +4,4 @@ yum update -y
 yum upgrade -y
 yum install -y epel-release 
 yum install -y vim htop net-tools moreutils htop
+yum install -y yum-config-manager yum-utils
